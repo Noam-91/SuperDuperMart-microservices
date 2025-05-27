@@ -1,0 +1,18 @@
+server:
+  port: 8083
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/
+
+spring:
+  application:
+    name: core-service
+
+stripe:
+  api:
+    key: sk_test_51Odm9iIF8WTds9zRu3qoKJ7gTjMHb22C3F3t0ZZVGFTezKFofj0zqHHqu2B7R9S1bxq8hVngksRGh9kXNJ2GUyhK00l4pRXZJi
+  urls:
+    success: "https://www.google.com"
+    fail: "https://www.google.com"
