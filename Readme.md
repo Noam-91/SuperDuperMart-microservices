@@ -8,7 +8,7 @@ A scalable e-commerce platform built with a **microservices architecture**, feat
 
 SuperDuperMart is designed for high performance and scalability, leveraging a distributed system to handle various e-commerce functionalities. Our architecture ensures that each service is independent, making the platform resilient and easy to maintain.
 
-![Architecture Diagram](System_Structure_Diagram.pdf)  
+![Architecture Diagram](System_Structure_Diagram.png)  
 *A high-level overview of the SuperDuperMart microservices architecture.*
 ---
 
